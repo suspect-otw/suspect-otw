@@ -19,6 +19,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suspect-otw&show_icons=true&locale=en" alt="suspect-otw" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suspect-otw&" alt="suspect-otw" /></p>
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/suspect-otw/suspect-otw/blob/output/github-contribution-grid-snake.gif)
 
 
