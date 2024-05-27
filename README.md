@@ -58,8 +58,6 @@
 
 
 # Github Stats
-
- <br />
  
   <p align="center">
   <a>
