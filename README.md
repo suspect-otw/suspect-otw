@@ -66,8 +66,6 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=suspect-otw&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="Emir Turhan" />
   </a>
 </p>
-
-  
 <br />
 
 
