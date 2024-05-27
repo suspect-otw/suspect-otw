@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/suspect-otw/suspect-otw/main/github-header-image.png)
+![MasterHead](https://raw.githubusercontent.com/suspect-otw/suspect-otw/main/github-header-image(1).png)
 
 ![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue)
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
