@@ -20,6 +20,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suspect-otw&" alt="suspect-otw" /></p>
 
-![snake animation](https://github.com/suspect-otw/suspect-otw/blob/output/github-contribution-grid-snake2.gif)
+![snake animation](https://github.com/suspect-otw/suspect-otw/blob/output/github-contribution-grid-snake3.gif)
 
 
