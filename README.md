@@ -21,4 +21,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suspect-otw&" alt="suspect-otw" /></p>
 
-https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif
+https://github.com/suspect-otw/suspect-otw/blob/output/github-contribution-grid-snake.gif
