@@ -1,6 +1,7 @@
 ![MasterHead](https://raw.githubusercontent.com/suspect-otw/suspect-otw/main/github-header-image.png)
 
 ![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue)
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <div align="center">
  <a href="https://github.com/suspect-otw">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Emir+Turhan+%e2%9c%a8;%f0%9f%93%9a+Full+Stack+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
@@ -23,7 +24,6 @@
 <p align="left">
   <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <a href="https://instagram.com/emiirturhann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Emir Turhan" height="30" width="40" /></a>
-
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </p>
 
