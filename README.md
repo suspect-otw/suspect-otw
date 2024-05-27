@@ -7,7 +7,7 @@
  </a>
 </div>
 
-<img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
+<img src="https://openseauserdata.com/files/c99e9df986f7df04b8972dd420349ce8.mp4#t=0.001" alt="Coding" width=200 height=200 align="right">
 
 
 <h3 align="left">&nbsp; A passionate Full-stack developer from Türkiye</h3>
