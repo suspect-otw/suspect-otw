@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **PHP**
 
-- 📫 How to reach me **emirturhanpv@gmail.com**
+- 📫 Feel free to reach me **emirturhanpv@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
